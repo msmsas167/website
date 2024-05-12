@@ -8,7 +8,7 @@ This example shows how to generate SVG files for all icons from `[npm]@iconify/j
 
 First, create a blank Node project, add `[npm]@iconify/tools` as a dependency. 
 
-Then create file `[file]export-files.mjs` and put this content:
+Then create file `[file]export-svg.mjs` and put this content:
 
 ```yaml
 src: libraries/tools/examples/export-all-files.mjs
